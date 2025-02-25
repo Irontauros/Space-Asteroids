@@ -1,0 +1,42 @@
+# Unity-specific folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+
+# Unity-generated files
+.vs/
+.idea/
+.user/
+.userprefs
+.unityproj
+.sln
+.swp
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# IDE files
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# Build artifacts
+*.apk
+*.aab
+*.exe
+*.app
+*.xcodeproj
+*.unitypackage
+
+# Large files (Optional: if using Git LFS)
+*.psd
+*.png
+*.jpg
+*.fbx
